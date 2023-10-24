@@ -1,0 +1,226 @@
+{
+    "ModuleConfig": {
+        "FLAG_RELAYBOX": false,
+        "FLAG_STIMULATOR": true,
+        "FLAG_CRANKANGLE_SENSOR_OPENDAQ": true,
+        "FLAG_CRANKANGLE_SENSOR_IMU_FOX": false,
+        "FLAG_IMUs": false,
+        "FLAG_HEARTRATE_MONITOR": false,
+        "FLAG_POWERMETER_ROTOR": true,
+        "FLAG_HOMETRAINER": false
+    },
+    "ButtonConfig": {
+        "FLAG_BUTTON_EMERGENCY": true,
+        "FLAG_BUTTON_LEFT": true,
+        "FLAG_BUTTON_RIGHT": true,
+        "FLAG_BUTTON_BOOST": true,
+        "FLAG_SWITCH_MAN_AUTO": true
+    },
+    "GeneralConfig": {
+        "ControlMode": "CONTROLLER_TCP",
+        "Max_Cadence_ManualMode": 30,
+        "Circumference_RearWheel": 2.099,
+        "MAC_Stimulator": "34:81:F4:2B:E7:6B",
+        "ID_ROTOR": 54968,
+        "ID_HeartRateMonitor": 64408
+    },
+    "StimConfig": {
+        "F": 40.0,
+        "F_Boost": 60.0,
+        "Monophasic": [
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false,
+            false
+        ],
+        "PhW": [
+            200,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400,
+            400
+        ],
+        "PhW_Boost": [
+            1000,
+            1000,
+            1000,
+            1000,
+            1000,
+            1000,
+            1000,
+            1000
+        ],
+        "IPG": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "I_Max": [
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120,
+            120
+        ],
+        "RampUP": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "RampDOWN": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "Biodex_ControllerConfig": {
+        "Name": "CONTROLLER_BIODEX",
+        "Min": 25,
+        "Max": 180,
+        "Start": [
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ],
+        "Stop": [
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25,
+            25
+        ]
+    },
+    "CrankAngle_ControllerConfig": {
+        "Name": "CONTROLLER_CRANKANGLE",
+        "Min": 0,
+        "Max": 360,
+        "Start": [
+            29,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Stop": [
+            193,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "KneeAngle_ControllerConfig": {
+        "Name": "CONTROLLER_KNEEANGLE",
+        "Min": 0,
+        "Max": 100,
+        "Start": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Stop": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "ThighAngle_ControllerConfig": {
+        "Name": "CONTROLLER_THIGHANGLE",
+        "Min": 0,
+        "Max": 100,
+        "Start": [
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Stop": [
+            48,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    "Observer_ControllerConfig": {
+        "Name": "CONTROLLER_OBSERVER",
+        "Min": 0,
+        "Max": 100,
+        "Start": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ],
+        "Stop": [
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    }
+}

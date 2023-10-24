@@ -1,0 +1,14 @@
+[Unit]
+Description=Watchdog monitoring IMUSEF and restarting it if necessary
+After=multi-user.target
+
+[Service]
+Type=forking
+Restart=on-failure
+RestartSec=2
+WorkingDirectory=/home/pi/Projects/IMUSEF
+ExecStart=/usr/bin/screen -dm /usr/bin/python /home/pi/Projects/IMUSEF/watchdog_IMUSEF.py
+
+[Install] 
+WantedBy=multi-user.target 
+

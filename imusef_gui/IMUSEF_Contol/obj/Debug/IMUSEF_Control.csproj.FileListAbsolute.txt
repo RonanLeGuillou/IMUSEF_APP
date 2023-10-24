@@ -1,0 +1,15 @@
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\bin\Debug\IMUSEF_Control.exe.config
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\bin\Debug\IMUSEF_Control.exe
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\bin\Debug\IMUSEF_Control.pdb
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\bin\Debug\Newtonsoft.Json.dll
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\bin\Debug\Renci.SshNet.dll
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\bin\Debug\Newtonsoft.Json.xml
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\bin\Debug\Renci.SshNet.xml
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\obj\Debug\IMUSEF_Control.csprojAssemblyReference.cache
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\obj\Debug\IMUSEF_Control.Form1.resources
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\obj\Debug\IMUSEF_Control.Properties.Resources.resources
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\obj\Debug\IMUSEF_Control.csproj.GenerateResource.cache
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\obj\Debug\IMUSEF_Control.csproj.CoreCompileInputs.cache
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\obj\Debug\IMUSEF_Control.csproj.CopyComplete
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\obj\Debug\IMUSEF_Control.exe
+D:\0_Projekte\01_POSTDOC\Software\IMUSEF_Control\IMUSEF_Contol\obj\Debug\IMUSEF_Control.pdb

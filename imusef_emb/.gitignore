@@ -1,0 +1,7 @@
+*.pyc
+save_BerkelStim
+save_PyTrainer
+path_to_file.txt
+observer
+.idea/
+Data/*.txt
